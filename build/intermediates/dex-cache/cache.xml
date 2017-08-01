@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\TicTacToe\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_fde6386bff117927c537be6da7904a3ed986562e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\444a1a91e09983ce1158f13ec9ef57764f1731fa\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\TicTacToe\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_b6946666b513f69d7ce8d1f249c70934fb3c7b21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\723c3f0f2908df4725757f77f655320c4a866e58\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\TicTacToe\app\build\intermediates\pre-dexed\debug\classes_1a4d70c5fd80ff2261daae969f7eed2723de8380.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\TicTacToe\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_c138ae61445733832e2eefe9ba3a8759c5920719.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\74b7d84d5984b8d963b1e20a8e13900f6b254cb6\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\TicTacToe\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_9863213a11138d6b879585ab43fecaa2063f287c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\5f100841c2e4fc0c33c96b5c41cccc2b8058d2c4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\TicTacToe\app\build\intermediates\pre-dexed\debug\classes_d5763ab8626ff61a6bbc54aa7ca7ade2ba672f5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\265b4c597a1d7edbd9c90e15799b739821ba04a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\TicTacToe\app\build\intermediates\pre-dexed\debug\classes_2caecf41924c1fdf46bd804d22c06d61b50e8322.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\022dd31612b0999129365c56058b9aebdc65b3a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\TicTacToe\app\build\intermediates\pre-dexed\debug\classes_9c6ac465a11b56381eb4df77b32cb6e084ce3405.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\74b7d84d5984b8d963b1e20a8e13900f6b254cb6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\TicTacToe\app\build\intermediates\pre-dexed\debug\classes_350ba4c17b40089b12a044ec764ecbdb2465cb4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\1e486e1ef85ab9f18d49978dd1b37b1b91cd553c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\TicTacToe\app\build\intermediates\pre-dexed\debug\classes_0a6811a10b4d85256b277402ae53daf4c04580fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\0b0a9b20afb3e52576f9b804bdfd4ebf204eaaf0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\TicTacToe\app\build\intermediates\pre-dexed\debug\classes_d998dbe9d5533fad56866f4bb4594761b83b3b99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\022dd31612b0999129365c56058b9aebdc65b3a2\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\TicTacToe\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_66b715cb4dfd220f54fa3a9709f82b6f0164ef83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\8f01833509b3688c4d0d292a69d0588851b19451\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\TicTacToe\app\build\intermediates\pre-dexed\debug\classes_b59a398b610e6cd37e4e59d78e41f2d3eb157de6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\5f100841c2e4fc0c33c96b5c41cccc2b8058d2c4\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\TicTacToe\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_a59f3ae0a5074683f310be62a8c0a4bdfef7eb88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\2ff2bc50545ef4a959ad5501f3d555b6118cf170\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\TicTacToe\app\build\intermediates\pre-dexed\debug\classes_e8e08b9cdb049f8db628b41ef5415982d14108f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\444a1a91e09983ce1158f13ec9ef57764f1731fa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\TicTacToe\app\build\intermediates\pre-dexed\debug\classes_a99a080b8628352ac1448ba3338dfe75cf3e6ab5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\265b4c597a1d7edbd9c90e15799b739821ba04a3\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\TicTacToe\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_e9d1a1b073ab94709df4b70c9058ad7a86dddbc3.jar" />
+    </item>
+
+</items>
